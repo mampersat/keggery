@@ -19,8 +19,9 @@ for keg in dict['objects']:
     else:
         counts[name] = 1
 
-    start_time = datetime.strptime(keg['start_time'],'%Y-%m-%dT%H:%M:%S+00:00')
-    end_time = datetime.strptime(keg['end_time'],'%Y-%m-%dT%H:%M:%S+00:00')
+    date_format = '%Y-%m-%dT%H:%M:%S+00:00'
+    start_time = datetime.strptime(keg['start_time'],date_format)
+    end_time = datetime.strptime(keg['end_time'],date_format)
     delta = end_time - start_time
 
     print "\"%s\",%s,%s,%s days" % (name, start_time, end_time, delta.days)
