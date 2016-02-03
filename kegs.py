@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import json
 from datetime import datetime
 from pprint import pprint
@@ -10,6 +11,7 @@ counts['Total'] = 0
 stats = {}
 dates = {}
 
+print "name, start_time, end_time, days,size"
 for keg in dict['objects']:
     counts['Total'] += 1
 
@@ -19,12 +21,14 @@ for keg in dict['objects']:
     else:
         counts[name] = 1
 
+    size = keg['size_name']
     date_format = '%Y-%m-%dT%H:%M:%S+00:00'
     start_time = datetime.strptime(keg['start_time'],date_format)
     end_time = datetime.strptime(keg['end_time'],date_format)
     delta = end_time - start_time
 
-    print "\"%s\",%s,%s,%s days" % (name, start_time, end_time, delta.days)
+    if start_time != end_time:
+	print "\"%s\",%s,%s,%s days,%s" % (name, start_time, end_time, delta.days,size)
 
     if name not in stats:
         stats[name] = {}
@@ -43,16 +47,16 @@ for keg in dict['objects']:
 
     #pprint(keg)
 
-for name in sorted(counts, key=counts.get, reverse=True):
-    if name in stats:
-        stats[name]['min'] = min(stats[name]['days'])
-        stats[name]['max'] = max(stats[name]['days'])
-        stats[name]['avg'] = sum(stats[name]['days'])/float(len(stats[name]['days']))
-
-for name in sorted(counts, key=counts.get, reverse=True):
-    print "\n%s: %s kegs" % (name, counts[name])
-    if name in stats:
-        pprint(stats[name])
-
-print "\n"
-pprint(dates)
+#for name in sorted(counts, key=counts.get, reverse=True):
+#    if name in stats:
+#        stats[name]['min'] = min(stats[name]['days'])
+#        stats[name]['max'] = max(stats[name]['days'])
+#        stats[name]['avg'] = sum(stats[name]['days'])/float(len(stats[name]['days']))
+#
+#for name in sorted(counts, key=counts.get, reverse=True):
+#    print "\n%s: %s kegs" % (name, counts[name])
+#    if name in stats:
+#        pprint(stats[name])
+#
+#print "\n"
+#pprint(dates)

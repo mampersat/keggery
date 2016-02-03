@@ -1,6 +1,1562 @@
 {
   "objects": [
     {
+      "volume_ml_remain": 19570.6, 
+      "full_volume_ml": 19570.6, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "16", 
+      "spilled_ml": 0.0, 
+      "start_time": "2016-01-28T21:59:34+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "sixth", 
+      "beverage": {
+        "abv_percent": 5.8, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141024192704-a4d23782e15e441bac4878bed31b1020/aaa390f5318219ae0d0b4ea3c99a32cb.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141024192704-a4d23782e15e441bac4878bed31b1020/5f6adcf73e47ef5a92dcb86283258f60.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141024192704-a4d23782e15e441bac4878bed31b1020.jpg", 
+          "time": "2014-10-24T19:27:04+00:00"
+        }, 
+        "style": "Extra Special Bitter", 
+        "beverage_type": "beer", 
+        "name": "ESB", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Redhook", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 13, 
+          "description": ""
+        }, 
+        "untappd_id": "3245", 
+        "ibu": 28.0, 
+        "id": 16, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2016-01-28T21:59:34+00:00", 
+      "keg_type": "sixth", 
+      "online": true, 
+      "remaining_volume_ml": 19570.6, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "ESB", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141024192704-a4d23782e15e441bac4878bed31b1020/0f2f57b6868867804375db718ad6e7a7.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141024192704-a4d23782e15e441bac4878bed31b1020/6048002b4de4a144260c387b21301b89.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141024192704-a4d23782e15e441bac4878bed31b1020.jpg", 
+          "time": "2014-10-24T19:27:04+00:00"
+        }, 
+        "abv": 5.8, 
+        "brewer_id": "13", 
+        "id": "16"
+      }, 
+      "id": 161, 
+      "size_volume_ml": 19570.6, 
+      "size": {
+        "volume_ml": 19570.6, 
+        "id": 0, 
+        "name": "sixth"
+      }
+    }, 
+    {
+      "volume_ml_remain": 19570.6, 
+      "full_volume_ml": 19570.6, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "73", 
+      "spilled_ml": 0.0, 
+      "start_time": "2016-01-27T20:28:10+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "sixth", 
+      "beverage": {
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160128205525-1ae9de35574047698203d940f65605b3/176616b26a80abc07cd7e06f0f46f1d4.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160128205525-1ae9de35574047698203d940f65605b3/05b3fe2269e1b6a7a011261199cc7610.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20160128205525-1ae9de35574047698203d940f65605b3.gif", 
+          "time": "2016-01-28T20:55:25+00:00"
+        }, 
+        "style": "IPA", 
+        "beverage_type": "beer", 
+        "name": "Monkey Fist IPA", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Shipyard", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 3, 
+          "description": ""
+        }, 
+        "id": 73, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2016-01-28T21:58:45+00:00", 
+      "keg_type": "sixth", 
+      "online": false, 
+      "remaining_volume_ml": 19570.6, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Monkey Fist IPA", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160128205525-1ae9de35574047698203d940f65605b3/9e823dae8aa3501810d99c3e8fb418c5.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160128205525-1ae9de35574047698203d940f65605b3/5fa6315447bc2bc817895221e522be64.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20160128205525-1ae9de35574047698203d940f65605b3.gif", 
+          "time": "2016-01-28T20:55:25+00:00"
+        }, 
+        "abv": 0.0, 
+        "brewer_id": "3", 
+        "id": "73"
+      }, 
+      "id": 160, 
+      "size_volume_ml": 19570.6, 
+      "size": {
+        "volume_ml": 19570.6, 
+        "id": 0, 
+        "name": "sixth"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "72", 
+      "spilled_ml": 0.0, 
+      "start_time": "2016-01-22T18:46:12+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 6.5, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160125162131-68547e07e29f4c5db2f825a99a62f8b5/091dbaee65662ce9a62f5277174ed48c.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160125162131-68547e07e29f4c5db2f825a99a62f8b5/eef21c9da7154bbde92b81a6c9ec7cbc.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20160125162131-68547e07e29f4c5db2f825a99a62f8b5.jpg", 
+          "time": "2016-01-25T16:21:31+00:00"
+        }, 
+        "style": "Porter", 
+        "beverage_type": "beer", 
+        "description": "Brewed with a blend of roasted and toasted malts, laying a rich foundation of coffee and dark chocolate flavors. Madagascar vanilla arrives late to the party, giving RVP its signature flavor and aroma.", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Great North Aleworks", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 52, 
+          "description": ""
+        }, 
+        "id": 72, 
+        "color_hex": "#C35900", 
+        "name": "Robust Vanilla Porter"
+      }, 
+      "end_time": "2016-01-22T18:46:12+00:00", 
+      "keg_type": "half-barrel", 
+      "online": true, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Robust Vanilla Porter", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160125162131-68547e07e29f4c5db2f825a99a62f8b5/c9e353a0c5b5c102bf2b2107de9088de.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160125162131-68547e07e29f4c5db2f825a99a62f8b5/f2902e23c7bf3cadb07ffe22df8bfc7b.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20160125162131-68547e07e29f4c5db2f825a99a62f8b5.jpg", 
+          "time": "2016-01-25T16:21:31+00:00"
+        }, 
+        "abv": 6.5, 
+        "brewer_id": "52", 
+        "id": "72"
+      }, 
+      "id": 159, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "71", 
+      "spilled_ml": 0.0, 
+      "start_time": "2016-01-22T18:45:00+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "style": "Porter", 
+        "beverage_type": "beer", 
+        "name": "Moat Vanilla Bean Porter", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Moat Mountain Brewery", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 34, 
+          "description": ""
+        }, 
+        "id": 71, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2016-01-22T18:45:30+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "style_id": "0", 
+        "brewer_id": "34", 
+        "id": "71", 
+        "abv": 0.0, 
+        "name": "Moat Vanilla Bean Porter"
+      }, 
+      "id": 158, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "volume_ml_remain": 19570.6, 
+      "full_volume_ml": 19570.6, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "70", 
+      "spilled_ml": 0.0, 
+      "start_time": "2016-01-20T20:00:45+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "sixth", 
+      "beverage": {
+        "abv_percent": 5.0, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160125162219-ed95f968f1564ad4932edaf986603514/1eeeb24fd6146552fa327c3cfc03b025.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160125162219-ed95f968f1564ad4932edaf986603514/abbe12b94ebf404b0607e37c95a2cc62.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20160125162219-ed95f968f1564ad4932edaf986603514.jpg", 
+          "time": "2016-01-25T16:22:19+00:00"
+        }, 
+        "style": "Pumpkin", 
+        "beverage_type": "beer", 
+        "name": "Grumpy Pumpkin Fest", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Milly's Tavern", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 51, 
+          "description": ""
+        }, 
+        "ibu": 14.6, 
+        "id": 70, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2016-01-20T20:00:45+00:00", 
+      "keg_type": "sixth", 
+      "online": true, 
+      "remaining_volume_ml": 19570.6, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Grumpy Pumpkin Fest", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160125162219-ed95f968f1564ad4932edaf986603514/efeb539236415efa8185c41658d0713a.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160125162219-ed95f968f1564ad4932edaf986603514/e6fbc404f868fdedb993e1262de6c571.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20160125162219-ed95f968f1564ad4932edaf986603514.jpg", 
+          "time": "2016-01-25T16:22:19+00:00"
+        }, 
+        "abv": 5.0, 
+        "brewer_id": "51", 
+        "id": "70"
+      }, 
+      "id": 157, 
+      "size_volume_ml": 19570.6, 
+      "size": {
+        "volume_ml": 19570.6, 
+        "id": 0, 
+        "name": "sixth"
+      }
+    }, 
+    {
+      "type_id": "42", 
+      "spilled_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "id": 155, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }, 
+      "served_volume_ml": 0.0, 
+      "size_id": 0, 
+      "online": false, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "IPA", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20150206204017-f3bf7a4148e640acad5d09b73d967de4/26dbda3a3c2252cfc76959f3f24a8095.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20150206204017-f3bf7a4148e640acad5d09b73d967de4/3a45249718761a579b992d732e7e6972.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20150206204017-f3bf7a4148e640acad5d09b73d967de4.jpg", 
+          "time": "2015-02-06T20:40:17+00:00"
+        }, 
+        "abv": 6.9, 
+        "brewer_id": "29", 
+        "id": "42"
+      }, 
+      "description": "", 
+      "start_time": "2016-01-13T21:49:34+00:00", 
+      "size_name": "half-barrel", 
+      "remaining_volume_ml": 58673.9, 
+      "size_volume_ml": 58673.9, 
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "beverage": {
+        "abv_percent": 6.9, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20150206204017-f3bf7a4148e640acad5d09b73d967de4/4b9a132d08facc697d12baf183e1089c.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20150206204017-f3bf7a4148e640acad5d09b73d967de4/1291464d62640906442aa49f569b9c1d.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20150206204017-f3bf7a4148e640acad5d09b73d967de4.jpg", 
+          "time": "2015-02-06T20:40:17+00:00"
+        }, 
+        "style": "IPA", 
+        "beverage_type": "beer", 
+        "name": "IPA", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Stone", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 29, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 42, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2016-01-22T18:30:02+00:00", 
+      "keg_type": "half-barrel"
+    }, 
+    {
+      "type_id": "69", 
+      "spilled_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "id": 156, 
+      "size": {
+        "volume_ml": 29336.9, 
+        "id": 0, 
+        "name": "quarter"
+      }, 
+      "served_volume_ml": 0.0, 
+      "size_id": 0, 
+      "online": false, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "style_id": "0", 
+        "brewer_id": "50", 
+        "id": "69", 
+        "abv": 5.1, 
+        "name": "No. 9"
+      }, 
+      "description": "", 
+      "start_time": "2016-01-08T22:02:09+00:00", 
+      "size_name": "quarter", 
+      "remaining_volume_ml": 29336.9, 
+      "size_volume_ml": 29336.9, 
+      "volume_ml_remain": 29336.9, 
+      "full_volume_ml": 29336.9, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "beverage": {
+        "abv_percent": 5.1, 
+        "style": "American Style Pale ALE", 
+        "beverage_type": "beer", 
+        "description": "Not quite pale ale.  A beer cloaked in secrecy.  An ale whose mysterious unusual palate will swirl across your tongue and ask more questions than it answers.\r\n\r\nA sort of dry, crisp, fruity, refreshing, not-quite pale ale.  #9 is really impossible to describe because there's never been anything else quite like it.  Our secret ingredient introduces a most unusual aroma which is balanced with residual sweetness.", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Magic Hat", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 50, 
+          "description": ""
+        }, 
+        "ibu": 20.0, 
+        "id": 69, 
+        "color_hex": "#C35900", 
+        "name": "No. 9"
+      }, 
+      "end_time": "2016-01-13T21:49:25+00:00", 
+      "keg_type": "quarter"
+    }, 
+    {
+      "volume_ml_remain": 29336.9, 
+      "full_volume_ml": 29336.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "26", 
+      "spilled_ml": 0.0, 
+      "start_time": "2016-01-07T21:40:04+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "quarter", 
+      "beverage": {
+        "abv_percent": 10.0, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141212203955-b689c75b2ad841fc8120fc6a0d08a172/e2a97bcadcc18f52705b44abe0dc35d5.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141212203955-b689c75b2ad841fc8120fc6a0d08a172/26c53ca00be97f4e546ee8fa7f7c5048.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141212203955-b689c75b2ad841fc8120fc6a0d08a172.jpg", 
+          "time": "2014-12-12T20:39:55+00:00"
+        }, 
+        "style": "Oak Aged Imperial IPA", 
+        "beverage_type": "beer", 
+        "name": "Burton Baton", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Dogfish Head", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 14, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 26, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2016-01-08T22:01:38+00:00", 
+      "keg_type": "quarter", 
+      "online": false, 
+      "remaining_volume_ml": 29336.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Burton Baton", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141212203955-b689c75b2ad841fc8120fc6a0d08a172/978ef1a33fe64ead5aa6546824f465b1.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141212203955-b689c75b2ad841fc8120fc6a0d08a172/327e49d8f1f3b8fb769795ad29cbc052.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141212203955-b689c75b2ad841fc8120fc6a0d08a172.jpg", 
+          "time": "2014-12-12T20:39:55+00:00"
+        }, 
+        "abv": 10.0, 
+        "brewer_id": "14", 
+        "id": "26"
+      }, 
+      "id": 154, 
+      "size_volume_ml": 29336.9, 
+      "size": {
+        "volume_ml": 29336.9, 
+        "id": 0, 
+        "name": "quarter"
+      }
+    }, 
+    {
+      "type_id": "68", 
+      "spilled_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "id": 153, 
+      "size": {
+        "volume_ml": 18927.1, 
+        "id": 0, 
+        "name": "corny"
+      }, 
+      "served_volume_ml": 0.0, 
+      "size_id": 0, 
+      "online": false, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "style_id": "0", 
+        "brewer_id": "38", 
+        "id": "68", 
+        "abv": 5.4, 
+        "name": "ManchVegas IPA"
+      }, 
+      "description": "American Style IPA; IBU 50", 
+      "start_time": "2016-01-07T21:39:31+00:00", 
+      "size_name": "corny", 
+      "remaining_volume_ml": 18927.1, 
+      "size_volume_ml": 18927.1, 
+      "volume_ml_remain": 18927.1, 
+      "full_volume_ml": 18927.1, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "beverage": {
+        "abv_percent": 5.4, 
+        "style": "IPA", 
+        "beverage_type": "beer", 
+        "description": "Traditional American Style India Pale ale, amber in color, hoppy from the start to finish. If you like Cascade hops you'll love this beer.", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Stark Mill (Milly's)", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 38, 
+          "description": ""
+        }, 
+        "ibu": 50.0, 
+        "id": 68, 
+        "color_hex": "#C35900", 
+        "name": "ManchVegas IPA"
+      }, 
+      "end_time": "2016-01-15T21:37:51+00:00", 
+      "keg_type": "corny"
+    }, 
+    {
+      "volume_ml_remain": 18927.1, 
+      "full_volume_ml": 18927.1, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "67", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-12-23T20:58:21+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "corny", 
+      "beverage": {
+        "abv_percent": 7.5, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151223210006-0541cd6eeca64f90b9805064ccbdc632/36ed3cd28153cc2e3cca31e1ecf5f253.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151223210006-0541cd6eeca64f90b9805064ccbdc632/08e42c9b1e4e487aa31266c049cae5d4.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151223210006-0541cd6eeca64f90b9805064ccbdc632.jpg", 
+          "time": "2015-12-23T21:00:06+00:00"
+        }, 
+        "style": "Belgian-style Stout", 
+        "beverage_type": "beer", 
+        "description": "Brewed with 2-row barley, torrified wheat, oats, both roasted and chocolate malt and a generous portion of dark caramelized candi sugar. The silky mouth feel is a great balance to the roasted character, coffee and dark chocolate notes expressed throughout this beer.", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Allagash", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 48, 
+          "description": ""
+        }, 
+        "id": 67, 
+        "color_hex": "#C35900", 
+        "name": "Black"
+      }, 
+      "end_time": "2016-01-07T20:17:15+00:00", 
+      "keg_type": "corny", 
+      "online": false, 
+      "remaining_volume_ml": 18927.1, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Black", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151223210006-0541cd6eeca64f90b9805064ccbdc632/a9c39d695a0fc2040e736fa357c22f46.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151223210006-0541cd6eeca64f90b9805064ccbdc632/073080a050097c3a1fafe03c91745dca.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151223210006-0541cd6eeca64f90b9805064ccbdc632.jpg", 
+          "time": "2015-12-23T21:00:06+00:00"
+        }, 
+        "abv": 7.5, 
+        "brewer_id": "48", 
+        "id": "67"
+      }, 
+      "id": 152, 
+      "size_volume_ml": 18927.1, 
+      "size": {
+        "volume_ml": 18927.1, 
+        "id": 0, 
+        "name": "corny"
+      }
+    }, 
+    {
+      "volume_ml_remain": 19570.6, 
+      "full_volume_ml": 19570.6, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "19", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-12-18T22:10:56+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "sixth", 
+      "beverage": {
+        "abv_percent": 9.0, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7/cf358d11099729993b0d4472ce644393.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7/1df4f0f3637298617f540af13eb4ad5b.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7.jpg", 
+          "time": "2014-11-07T21:11:27+00:00"
+        }, 
+        "style": "IPA", 
+        "beverage_type": "beer", 
+        "name": "90min IPA", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Dogfish Head", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 14, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 19, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2015-12-23T20:57:24+00:00", 
+      "keg_type": "sixth", 
+      "online": false, 
+      "remaining_volume_ml": 19570.6, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "90min IPA", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7/ded5ce065b59a29f526d0e246f50e078.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7/39a7ac8248134f3c3830815d3ef35ece.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7.jpg", 
+          "time": "2014-11-07T21:11:27+00:00"
+        }, 
+        "abv": 9.0, 
+        "brewer_id": "14", 
+        "id": "19"
+      }, 
+      "id": 151, 
+      "size_volume_ml": 19570.6, 
+      "size": {
+        "volume_ml": 19570.6, 
+        "id": 0, 
+        "name": "sixth"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "66", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-12-18T21:34:58+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 5.0, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151218214014-58d46bad1ab44eb7ab82c96befc5d961/59b2408dfc740e9122add83fc1cc2aba.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151218214014-58d46bad1ab44eb7ab82c96befc5d961/d401d139332b220b8eb2e859bab8035b.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151218214014-58d46bad1ab44eb7ab82c96befc5d961.jpg", 
+          "time": "2015-12-18T21:40:14+00:00"
+        }, 
+        "style": "Porter", 
+        "beverage_type": "beer", 
+        "description": "dark malt dominates the flavor profile, mouth feel is lighter than our stout, bitterness balanced to allow the specialty grains to shine.", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Moat Mountain", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 47, 
+          "description": ""
+        }, 
+        "id": 66, 
+        "color_hex": "#C35900", 
+        "name": "Smoke House Porter"
+      }, 
+      "end_time": "2016-01-27T20:27:31+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Smoke House Porter", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151218214014-58d46bad1ab44eb7ab82c96befc5d961/bdf21526dbb452e0a430fa041f28289c.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151218214014-58d46bad1ab44eb7ab82c96befc5d961/655eb6020a8b063e8669ef51b7db2923.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151218214014-58d46bad1ab44eb7ab82c96befc5d961.jpg", 
+          "time": "2015-12-18T21:40:14+00:00"
+        }, 
+        "abv": 5.0, 
+        "brewer_id": "47", 
+        "id": "66"
+      }, 
+      "id": 150, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "65", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-12-10T22:06:13+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 8.1, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151210220643-5d185817887f4e538af4c3cf7005d298/03ab0068f53474eef72c3c2794a753e9.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151210220643-5d185817887f4e538af4c3cf7005d298/6f1aa2fc5f73f8b0f9019f0daee99c66.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151210220643-5d185817887f4e538af4c3cf7005d298.jpg", 
+          "time": "2015-12-10T22:06:43+00:00"
+        }, 
+        "style": "Imperial IPA", 
+        "beverage_type": "beer", 
+        "name": "Hopzilla", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Stark Mill", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 46, 
+          "description": ""
+        }, 
+        "id": 65, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2016-01-07T21:39:39+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Hopzilla", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151210220643-5d185817887f4e538af4c3cf7005d298/fed757b7fae640776b1027bb45e62d38.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151210220643-5d185817887f4e538af4c3cf7005d298/a20f48d96c899cd8e467637da663001a.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151210220643-5d185817887f4e538af4c3cf7005d298.jpg", 
+          "time": "2015-12-10T22:06:43+00:00"
+        }, 
+        "abv": 8.1, 
+        "brewer_id": "46", 
+        "id": "65"
+      }, 
+      "id": 149, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "4", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-12-04T19:29:33+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 5.0, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23/69f09cc1bee7888ffa63e6403735835a.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23/f120a2c5f7de4c1db920ff620d729f16.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23.png", 
+          "time": "2014-10-06T19:33:44+00:00"
+        }, 
+        "style": "American Pale Ale", 
+        "beverage_type": "beer", 
+        "name": "Switchback Ale", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Switchback", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "Vermont", 
+          "is_homebrew": false, 
+          "id": 4, 
+          "description": ""
+        }, 
+        "untappd_id": "12563", 
+        "id": 4, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2015-12-18T22:10:41+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Switchback Ale", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23/487e459397549b273ec041cb3b5472f1.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23/03ba26cb8d8c9b50f8e1c638c1c5ad19.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23.png", 
+          "time": "2014-10-06T19:33:44+00:00"
+        }, 
+        "abv": 5.0, 
+        "brewer_id": "4", 
+        "id": "4"
+      }, 
+      "id": 148, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "11", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-11-30T15:53:33+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 5.9, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141017184213-e5e810afd62d46dfa0f166903d818726/6d8940793d7b43d283fe8a372b9fca2b.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141017184213-e5e810afd62d46dfa0f166903d818726/352d9069950be9f727f249fb95e0d3c6.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141017184213-e5e810afd62d46dfa0f166903d818726.gif", 
+          "time": "2014-10-17T18:42:13+00:00"
+        }, 
+        "style": "IPA", 
+        "beverage_type": "beer", 
+        "description": "An interpretation of the classic English style using hops and malt grown in the United States. ", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Harpoon", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 9, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 11, 
+        "color_hex": "#C35900", 
+        "name": "IPA"
+      }, 
+      "end_time": "2015-12-10T22:05:57+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "IPA", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141017184213-e5e810afd62d46dfa0f166903d818726/fcd16939d2a780f8629e808fc8ff026d.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141017184213-e5e810afd62d46dfa0f166903d818726/2ace5d2668b2142cf1b22621b6bd1248.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141017184213-e5e810afd62d46dfa0f166903d818726.gif", 
+          "time": "2014-10-17T18:42:13+00:00"
+        }, 
+        "abv": 5.9, 
+        "brewer_id": "9", 
+        "id": "11"
+      }, 
+      "id": 147, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "23", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-11-24T21:49:10+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 5.2, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5/ba54fe11d05fd1cdcb887333e0285428.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5/22e94affddcbc7789b18934329d73d23.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5.png", 
+          "time": "2014-11-21T22:07:50+00:00"
+        }, 
+        "style": "Porter", 
+        "beverage_type": "beer", 
+        "name": "Working Man's Porter", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Henniker Brewing", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 16, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 23, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2015-12-18T21:34:31+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Working Man's Porter", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5/463bc75e72d7cbcbcbdd2880f7e361a6.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5/5c43aa5e19789ea09f64d7efd44da5bb.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5.png", 
+          "time": "2014-11-21T22:07:50+00:00"
+        }, 
+        "abv": 5.2, 
+        "brewer_id": "16", 
+        "id": "23"
+      }, 
+      "id": 146, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "type_id": "19", 
+      "spilled_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "id": 144, 
+      "size": {
+        "volume_ml": 19570.6, 
+        "id": 0, 
+        "name": "sixth"
+      }, 
+      "served_volume_ml": 0.0, 
+      "size_id": 0, 
+      "online": false, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "90min IPA", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7/ded5ce065b59a29f526d0e246f50e078.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7/39a7ac8248134f3c3830815d3ef35ece.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7.jpg", 
+          "time": "2014-11-07T21:11:27+00:00"
+        }, 
+        "abv": 9.0, 
+        "brewer_id": "14", 
+        "id": "19"
+      }, 
+      "description": "", 
+      "start_time": "2015-11-19T21:24:24+00:00", 
+      "size_name": "sixth", 
+      "remaining_volume_ml": 19570.6, 
+      "size_volume_ml": 19570.6, 
+      "volume_ml_remain": 19570.6, 
+      "full_volume_ml": 19570.6, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "beverage": {
+        "abv_percent": 9.0, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7/cf358d11099729993b0d4472ce644393.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7/1df4f0f3637298617f540af13eb4ad5b.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141107211127-3e420b962b2d477c9b4d03547133d4b7.jpg", 
+          "time": "2014-11-07T21:11:27+00:00"
+        }, 
+        "style": "IPA", 
+        "beverage_type": "beer", 
+        "name": "90min IPA", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Dogfish Head", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 14, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 19, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2015-11-20T21:37:59+00:00", 
+      "keg_type": "sixth"
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "63", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-11-19T21:24:02+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 5.3, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/d4d895dc57688e2770cff4425e947460.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/caad8ae3880641063b90d91a1b005f60.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151105211317-43f216236cbb4d17944f12b1839582ac.jpg", 
+          "time": "2015-11-05T21:13:17+00:00"
+        }, 
+        "style": "Pale Ale", 
+        "beverage_type": "beer", 
+        "description": "Not terribly Hoppy - very approachable beer. Like Bud Light? Try Tuckerman", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Tuckerman Brewing", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 45, 
+          "description": ""
+        }, 
+        "id": 63, 
+        "color_hex": "#C35900", 
+        "name": "Pale Ale"
+      }, 
+      "end_time": "2015-12-02T21:57:49+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Pale Ale", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/d0e87255ccc769738acb2aed06bc672d.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/b8c699b615047f4fb9295e2faaf0516b.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151105211317-43f216236cbb4d17944f12b1839582ac.jpg", 
+          "time": "2015-11-05T21:13:17+00:00"
+        }, 
+        "abv": 5.3, 
+        "brewer_id": "45", 
+        "id": "63"
+      }, 
+      "id": 145, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "type_id": "23", 
+      "spilled_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "id": 143, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }, 
+      "served_volume_ml": 0.0, 
+      "size_id": 0, 
+      "online": false, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Working Man's Porter", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5/463bc75e72d7cbcbcbdd2880f7e361a6.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5/5c43aa5e19789ea09f64d7efd44da5bb.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5.png", 
+          "time": "2014-11-21T22:07:50+00:00"
+        }, 
+        "abv": 5.2, 
+        "brewer_id": "16", 
+        "id": "23"
+      }, 
+      "description": "", 
+      "start_time": "2015-11-12T15:31:01+00:00", 
+      "size_name": "half-barrel", 
+      "remaining_volume_ml": 58673.9, 
+      "size_volume_ml": 58673.9, 
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "beverage": {
+        "abv_percent": 5.2, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5/ba54fe11d05fd1cdcb887333e0285428.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5/22e94affddcbc7789b18934329d73d23.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141121220750-621abc9b1e6c484f903956bbc112fda5.png", 
+          "time": "2014-11-21T22:07:50+00:00"
+        }, 
+        "style": "Porter", 
+        "beverage_type": "beer", 
+        "name": "Working Man's Porter", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Henniker Brewing", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 16, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 23, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2015-11-12T15:31:01+00:00", 
+      "keg_type": "half-barrel"
+    }, 
+    {
+      "type_id": "63", 
+      "spilled_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "id": 142, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }, 
+      "served_volume_ml": 0.0, 
+      "size_id": 0, 
+      "online": false, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Pale Ale", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/d0e87255ccc769738acb2aed06bc672d.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/b8c699b615047f4fb9295e2faaf0516b.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151105211317-43f216236cbb4d17944f12b1839582ac.jpg", 
+          "time": "2015-11-05T21:13:17+00:00"
+        }, 
+        "abv": 5.3, 
+        "brewer_id": "45", 
+        "id": "63"
+      }, 
+      "description": "", 
+      "start_time": "2015-11-12T15:29:45+00:00", 
+      "size_name": "half-barrel", 
+      "remaining_volume_ml": 58673.9, 
+      "size_volume_ml": 58673.9, 
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "beverage": {
+        "abv_percent": 5.3, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/d4d895dc57688e2770cff4425e947460.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/caad8ae3880641063b90d91a1b005f60.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151105211317-43f216236cbb4d17944f12b1839582ac.jpg", 
+          "time": "2015-11-05T21:13:17+00:00"
+        }, 
+        "style": "Pale Ale", 
+        "beverage_type": "beer", 
+        "description": "Not terribly Hoppy - very approachable beer. Like Bud Light? Try Tuckerman", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Tuckerman Brewing", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 45, 
+          "description": ""
+        }, 
+        "id": 63, 
+        "color_hex": "#C35900", 
+        "name": "Pale Ale"
+      }, 
+      "end_time": "2015-11-12T15:29:45+00:00", 
+      "keg_type": "half-barrel"
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "64", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-11-12T15:28:46+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 4.7, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151112160351-7d2d2ea6c87a4b5c8395a9959a2b2e89/daf15dd7a5f2595b7c07fcdcfc89175e.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151112160351-7d2d2ea6c87a4b5c8395a9959a2b2e89/9a39b989604055f64a9988b46fa0f626.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151112160351-7d2d2ea6c87a4b5c8395a9959a2b2e89.png", 
+          "time": "2015-11-12T16:03:51+00:00"
+        }, 
+        "style": "American IPA", 
+        "beverage_type": "beer", 
+        "description": "The beer you\u2019ve been waiting for. Keeps your taste satisfied while keeping your senses sharp. An all-day IPA naturally brewed with a complex array of malts, grains and hops. Balanced for optimal aromatics and a clean finish. The perfect reward for an honest day\u2019s work and the ultimate companion to celebrate life\u2019s simple pleasures.", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Founders", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 44, 
+          "description": ""
+        }, 
+        "untappd_id": "36834", 
+        "ibu": 42.0, 
+        "id": 64, 
+        "color_hex": "#C35900", 
+        "name": "All Day IPA"
+      }, 
+      "end_time": "2015-11-19T21:24:09+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "All Day IPA", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151112160351-7d2d2ea6c87a4b5c8395a9959a2b2e89/4ab1cb59b46966cb41d5f5d8c076dc71.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151112160351-7d2d2ea6c87a4b5c8395a9959a2b2e89/794a35158e77638816af9a4be885f33b.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151112160351-7d2d2ea6c87a4b5c8395a9959a2b2e89.png", 
+          "time": "2015-11-12T16:03:51+00:00"
+        }, 
+        "abv": 4.7, 
+        "brewer_id": "44", 
+        "id": "64"
+      }, 
+      "id": 141, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "63", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-11-05T21:12:09+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 5.3, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/d4d895dc57688e2770cff4425e947460.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/caad8ae3880641063b90d91a1b005f60.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151105211317-43f216236cbb4d17944f12b1839582ac.jpg", 
+          "time": "2015-11-05T21:13:17+00:00"
+        }, 
+        "style": "Pale Ale", 
+        "beverage_type": "beer", 
+        "description": "Not terribly Hoppy - very approachable beer. Like Bud Light? Try Tuckerman", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Tuckerman Brewing", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 45, 
+          "description": ""
+        }, 
+        "id": 63, 
+        "color_hex": "#C35900", 
+        "name": "Pale Ale"
+      }, 
+      "end_time": "2015-11-19T21:22:56+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Pale Ale", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/d0e87255ccc769738acb2aed06bc672d.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151105211317-43f216236cbb4d17944f12b1839582ac/b8c699b615047f4fb9295e2faaf0516b.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151105211317-43f216236cbb4d17944f12b1839582ac.jpg", 
+          "time": "2015-11-05T21:13:17+00:00"
+        }, 
+        "abv": 5.3, 
+        "brewer_id": "45", 
+        "id": "63"
+      }, 
+      "id": 140, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "type_id": "21", 
+      "spilled_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "id": 139, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }, 
+      "served_volume_ml": 0.0, 
+      "size_id": 0, 
+      "online": false, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Burn the Ships", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141115031516-13cbf7e3755844edb017bbf15651d082/24aa646d03a0963d7246d534f7319934.jpeg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141115031516-13cbf7e3755844edb017bbf15651d082/6e16fa870ffc45a875b1629b97b2d6de.jpeg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141115031516-13cbf7e3755844edb017bbf15651d082.jpeg", 
+          "time": "2014-11-15T03:15:16+00:00"
+        }, 
+        "abv": 7.0, 
+        "brewer_id": "8", 
+        "id": "21"
+      }, 
+      "description": "", 
+      "start_time": "2015-11-04T21:24:29+00:00", 
+      "size_name": "half-barrel", 
+      "remaining_volume_ml": 58673.9, 
+      "size_volume_ml": 58673.9, 
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "beverage": {
+        "abv_percent": 7.0, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141115031516-13cbf7e3755844edb017bbf15651d082/0908228e62b290e9ae9e7ca6cea300ae.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141115031516-13cbf7e3755844edb017bbf15651d082/157bd46ca0bbfcc5bf698c23dd97ff2c.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141115031516-13cbf7e3755844edb017bbf15651d082.jpeg", 
+          "time": "2014-11-15T03:15:16+00:00"
+        }, 
+        "style": "IPA", 
+        "beverage_type": "beer", 
+        "description": "An IPA brewed with smoked specialty malt and a bevy of complex hops to give it a unique smoke-filled conclusion with a strong aroma. As surprising as it is revolutionary.", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Able Ebenezer", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 8, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 21, 
+        "color_hex": "#C35900", 
+        "name": "Burn the Ships"
+      }, 
+      "end_time": "2015-11-24T21:49:04+00:00", 
+      "keg_type": "half-barrel"
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "62", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-10-27T15:23:18+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 8.3, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d/72efa9043634d8e8ce007521dc004274.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d/4c5b9eb89831d2fa09667f4bc71604ec.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d.png", 
+          "time": "2015-10-22T21:32:47+00:00"
+        }, 
+        "style": "Double Chocolate Coffee Oatmeal Stout", 
+        "beverage_type": "beer", 
+        "description": "Sponsored by the fine people at Zoura", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Founders", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 44, 
+          "description": ""
+        }, 
+        "id": 62, 
+        "color_hex": "#C35900", 
+        "name": "Breakfast Stout"
+      }, 
+      "end_time": "2015-11-11T23:23:39+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Breakfast Stout", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d/77776d88513c1693e9288aa3bc6ce4fc.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d/cc664f2680db8b86539578126436f93b.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d.png", 
+          "time": "2015-10-22T21:32:47+00:00"
+        }, 
+        "abv": 8.3, 
+        "brewer_id": "44", 
+        "id": "62"
+      }, 
+      "id": 138, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
+      "type_id": "4", 
+      "spilled_ml": 0.0, 
+      "start_time": "2015-10-27T15:23:06+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 5.0, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23/69f09cc1bee7888ffa63e6403735835a.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23/f120a2c5f7de4c1db920ff620d729f16.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23.png", 
+          "time": "2014-10-06T19:33:44+00:00"
+        }, 
+        "style": "American Pale Ale", 
+        "beverage_type": "beer", 
+        "name": "Switchback Ale", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Switchback", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "Vermont", 
+          "is_homebrew": false, 
+          "id": 4, 
+          "description": ""
+        }, 
+        "untappd_id": "12563", 
+        "id": 4, 
+        "color_hex": "#C35900"
+      }, 
+      "end_time": "2015-11-04T19:24:10+00:00", 
+      "keg_type": "half-barrel", 
+      "online": false, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Switchback Ale", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23/487e459397549b273ec041cb3b5472f1.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23/03ba26cb8d8c9b50f8e1c638c1c5ad19.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141006193344-37f24a7db33e4e4e80f1d0a8cdec0a23.png", 
+          "time": "2014-10-06T19:33:44+00:00"
+        }, 
+        "abv": 5.0, 
+        "brewer_id": "4", 
+        "id": "4"
+      }, 
+      "id": 137, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
       "volume_ml_remain": 58673.9, 
       "full_volume_ml": 58673.9, 
       "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
@@ -39,9 +1595,9 @@
         "color_hex": "#C35900", 
         "name": "IPA"
       }, 
-      "end_time": "2015-10-23T13:08:30+00:00", 
+      "end_time": "2015-10-27T13:07:25+00:00", 
       "keg_type": "half-barrel", 
-      "online": true, 
+      "online": false, 
       "remaining_volume_ml": 58673.9, 
       "spilled_volume_ml": 0.0, 
       "type": {
@@ -78,6 +1634,7 @@
       "size_id": 0, 
       "size_name": "half-barrel", 
       "beverage": {
+        "abv_percent": 8.3, 
         "picture": {
           "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d/72efa9043634d8e8ce007521dc004274.png", 
           "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d/4c5b9eb89831d2fa09667f4bc71604ec.png", 
@@ -101,9 +1658,9 @@
         "color_hex": "#C35900", 
         "name": "Breakfast Stout"
       }, 
-      "end_time": "2015-10-22T21:32:06+00:00", 
+      "end_time": "2015-10-27T15:22:59+00:00", 
       "keg_type": "half-barrel", 
-      "online": true, 
+      "online": false, 
       "remaining_volume_ml": 58673.9, 
       "spilled_volume_ml": 0.0, 
       "type": {
@@ -115,7 +1672,7 @@
           "original_url": "http://beer.corp.dyn.com:80/media/pics/20151022213247-2520197869cb4eb08cb8723d3539b78d.png", 
           "time": "2015-10-22T21:32:47+00:00"
         }, 
-        "abv": 0.0, 
+        "abv": 8.3, 
         "brewer_id": "44", 
         "id": "62"
       }, 
@@ -290,9 +1847,9 @@
         "color_hex": "#C35900", 
         "name": "Bud Light"
       }, 
-      "end_time": "2015-10-08T20:49:23+00:00", 
+      "end_time": "2015-11-04T21:59:16+00:00", 
       "keg_type": "half-barrel", 
-      "online": true, 
+      "online": false, 
       "remaining_volume_ml": 58673.9, 
       "spilled_volume_ml": 0.0, 
       "type": {
@@ -707,7 +2264,7 @@
       }, 
       "served_volume_ml": 0.0, 
       "size_id": 0, 
-      "online": true, 
+      "online": false, 
       "spilled_volume_ml": 0.0, 
       "type": {
         "name": "Cambridge Coldbrew", 
@@ -755,7 +2312,7 @@
         "color_hex": "#C35900", 
         "name": "Cambridge Coldbrew"
       }, 
-      "end_time": "2015-09-02T14:45:39+00:00", 
+      "end_time": "2015-11-04T22:22:47+00:00", 
       "keg_type": "half-barrel"
     }, 
     {
@@ -2179,7 +3736,7 @@
         }, 
         "style": "IPA", 
         "beverage_type": "beer", 
-        "name": "Burn the Ships", 
+        "description": "An IPA brewed with smoked specialty malt and a bevy of complex hops to give it a unique smoke-filled conclusion with a strong aroma. As surprising as it is revolutionary.", 
         "producer": {
           "origin_city": "", 
           "name": "Able Ebenezer", 
@@ -2193,7 +3750,8 @@
         "beverage_backend_id": "", 
         "beverage_backend": "", 
         "id": 21, 
-        "color_hex": "#C35900"
+        "color_hex": "#C35900", 
+        "name": "Burn the Ships"
       }, 
       "end_time": "2015-06-25T21:15:26+00:00", 
       "keg_type": "half-barrel", 
@@ -4279,7 +5837,7 @@
         }, 
         "style": "IPA", 
         "beverage_type": "beer", 
-        "name": "Burn the Ships", 
+        "description": "An IPA brewed with smoked specialty malt and a bevy of complex hops to give it a unique smoke-filled conclusion with a strong aroma. As surprising as it is revolutionary.", 
         "producer": {
           "origin_city": "", 
           "name": "Able Ebenezer", 
@@ -4293,7 +5851,8 @@
         "beverage_backend_id": "", 
         "beverage_backend": "", 
         "id": 21, 
-        "color_hex": "#C35900"
+        "color_hex": "#C35900", 
+        "name": "Burn the Ships"
       }, 
       "end_time": "2015-02-20T20:39:50+00:00", 
       "keg_type": "half-barrel", 
@@ -6712,7 +8271,7 @@
         }, 
         "style": "IPA", 
         "beverage_type": "beer", 
-        "name": "Burn the Ships", 
+        "description": "An IPA brewed with smoked specialty malt and a bevy of complex hops to give it a unique smoke-filled conclusion with a strong aroma. As surprising as it is revolutionary.", 
         "producer": {
           "origin_city": "", 
           "name": "Able Ebenezer", 
@@ -6726,7 +8285,8 @@
         "beverage_backend_id": "", 
         "beverage_backend": "", 
         "id": 21, 
-        "color_hex": "#C35900"
+        "color_hex": "#C35900", 
+        "name": "Burn the Ships"
       }, 
       "end_time": "2014-11-20T19:35:18+00:00", 
       "keg_type": "half-barrel", 
