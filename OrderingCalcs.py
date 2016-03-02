@@ -49,7 +49,9 @@ for name, stat in stats.iteritems():
     #print name, numpy.mean(stat['rate'])
 
 f = open('suggestions', 'w')
-    
+s = "Subject: Beer Suggestions for {}\n".format(datetime.today() )
+f.write(s)
+
 #Display in order
 for w in sorted(stats, key=lambda rate:stats[rate]['rate'], reverse=True):
     s = "{:3.0f} liters/wk {:3d} days ago, {}\n".format(
