@@ -66,7 +66,7 @@ f.write(s)
 for w in sorted(stats, key=lambda rate:stats[rate]['rate'], reverse=True):
     s = "{:3.0f} liters/wk {:3d} days ago, {}\n".format(
         stats[w]['rate'], (datetime.today() -stats[w]['date']).days, w)
-    # f.write(s)
-    print s,
+    f.write(s)
+    # print s,
     
 f.close()
