@@ -10,6 +10,12 @@ import json
 from datetime import datetime
 import numpy
 
+#List of keg_id's that we don't want to report on
+#Typically becuase they are not from an easy to acquire vendor
+exempt=[41, #northcountry hard cider
+        7, 6, #throwback
+        ]
+
 with open('kegs.json') as data_file:
     dict = json.load(data_file)
 
@@ -18,7 +24,11 @@ stats = {}
 #Drive through list collecting stats
 for keg in dict['objects']:
 
-    name = "%s %s" % (keg['beverage']['producer']['name'], keg['beverage']['name'])
+    # filter out certain kegs
+    if keg['beverage']['id'] in exempt:
+        break
+        
+    name = "%s %s id=%s" % (keg['beverage']['producer']['name'], keg['beverage']['name'], keg['beverage']['id'])
   
     volume = keg['full_volume_ml']
     date_format = '%Y-%m-%dT%H:%M:%S+00:00'
@@ -56,6 +66,7 @@ f.write(s)
 for w in sorted(stats, key=lambda rate:stats[rate]['rate'], reverse=True):
     s = "{:3.0f} liters/wk {:3d} days ago, {}\n".format(
         stats[w]['rate'], (datetime.today() -stats[w]['date']).days, w)
-    f.write(s)
+    # f.write(s)
+    print s,
     
 f.close()
