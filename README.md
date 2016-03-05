@@ -2,4 +2,3 @@ A repository to hold random scripts/utilities to interact with the Dyn kegbot ap
 ```
 curl -k -v -v -X GET "http://beer.corp.dyn.com/api/kegs" > kegs.json
 ```
-``
