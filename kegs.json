@@ -5,6 +5,135 @@
       "full_volume_ml": 58673.9, 
       "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
       "served_volume_ml": 0.0, 
+      "type_id": "11", 
+      "spilled_ml": 0.0, 
+      "start_time": "2016-03-03T21:58:49+00:00", 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "size_id": 0, 
+      "size_name": "half-barrel", 
+      "beverage": {
+        "abv_percent": 5.9, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141017184213-e5e810afd62d46dfa0f166903d818726/6d8940793d7b43d283fe8a372b9fca2b.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141017184213-e5e810afd62d46dfa0f166903d818726/352d9069950be9f727f249fb95e0d3c6.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141017184213-e5e810afd62d46dfa0f166903d818726.gif", 
+          "time": "2014-10-17T18:42:13+00:00"
+        }, 
+        "style": "IPA", 
+        "beverage_type": "beer", 
+        "description": "An interpretation of the classic English style using hops and malt grown in the United States. ", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Harpoon", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 9, 
+          "description": ""
+        }, 
+        "beverage_backend_id": "", 
+        "beverage_backend": "", 
+        "id": 11, 
+        "color_hex": "#C35900", 
+        "name": "IPA"
+      }, 
+      "end_time": "2016-03-03T21:58:49+00:00", 
+      "keg_type": "half-barrel", 
+      "online": true, 
+      "remaining_volume_ml": 58673.9, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "IPA", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141017184213-e5e810afd62d46dfa0f166903d818726/fcd16939d2a780f8629e808fc8ff026d.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20141017184213-e5e810afd62d46dfa0f166903d818726/2ace5d2668b2142cf1b22621b6bd1248.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20141017184213-e5e810afd62d46dfa0f166903d818726.gif", 
+          "time": "2014-10-17T18:42:13+00:00"
+        }, 
+        "abv": 5.9, 
+        "brewer_id": "9", 
+        "id": "11"
+      }, 
+      "id": 168, 
+      "size_volume_ml": 58673.9, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }
+    }, 
+    {
+      "type_id": "75", 
+      "spilled_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "id": 166, 
+      "size": {
+        "volume_ml": 58673.9, 
+        "id": 0, 
+        "name": "half-barrel"
+      }, 
+      "served_volume_ml": 0.0, 
+      "size_id": 0, 
+      "online": true, 
+      "spilled_volume_ml": 0.0, 
+      "type": {
+        "name": "Oatmeal Nitro Stout", 
+        "style_id": "0", 
+        "image": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160303220426-30f5bb08fac641aaabe25292122069f4/f6b6be25b494387511f40c8a92f28c22.jpg", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160303220426-30f5bb08fac641aaabe25292122069f4/fc9a1507e9625b3b15d5cb78e257f17b.jpg", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20160303220426-30f5bb08fac641aaabe25292122069f4.jpg", 
+          "time": "2016-03-03T22:04:26+00:00"
+        }, 
+        "abv": 4.9, 
+        "brewer_id": "51", 
+        "id": "75"
+      }, 
+      "description": "", 
+      "start_time": "2016-03-03T14:54:56+00:00", 
+      "size_name": "half-barrel", 
+      "remaining_volume_ml": 58673.9, 
+      "size_volume_ml": 58673.9, 
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
+      "percent_full": 100.0, 
+      "beverage": {
+        "abv_percent": 4.9, 
+        "picture": {
+          "url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160303220426-30f5bb08fac641aaabe25292122069f4/566a0d333488d2a361a7196b470cd03e.png", 
+          "thumbnail_url": "http://beer.corp.dyn.com:80/media/CACHE/images/pics/20160303220426-30f5bb08fac641aaabe25292122069f4/3a6b2731682184cd3dde08cd568796ce.png", 
+          "original_url": "http://beer.corp.dyn.com:80/media/pics/20160303220426-30f5bb08fac641aaabe25292122069f4.jpg", 
+          "time": "2016-03-03T22:04:26+00:00"
+        }, 
+        "style": "Oatmeal Nitro Stout", 
+        "beverage_type": "beer", 
+        "description": "Our award winning ale is a traditional sweet stout. Rolled oats bring out the flavor and richness. It is full bodied and is a meal in itself.", 
+        "producer": {
+          "origin_city": "", 
+          "name": "Milly's Tavern", 
+          "url": "", 
+          "country": "USA", 
+          "origin_state": "", 
+          "is_homebrew": false, 
+          "id": 51, 
+          "description": ""
+        }, 
+        "id": 75, 
+        "color_hex": "#C35900", 
+        "name": "Oatmeal Nitro Stout"
+      }, 
+      "end_time": "2016-02-26T21:52:27+00:00", 
+      "keg_type": "half-barrel"
+    }, 
+    {
+      "volume_ml_remain": 58673.9, 
+      "full_volume_ml": 58673.9, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
+      "served_volume_ml": 0.0, 
       "type_id": "44", 
       "spilled_ml": 0.0, 
       "start_time": "2016-03-01T20:18:57+00:00", 
@@ -64,56 +193,6 @@
       }
     }, 
     {
-      "type_id": "75", 
-      "spilled_ml": 0.0, 
-      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
-      "id": 166, 
-      "size": {
-        "volume_ml": 58673.9, 
-        "id": 0, 
-        "name": "half-barrel"
-      }, 
-      "served_volume_ml": 0.0, 
-      "size_id": 0, 
-      "online": false, 
-      "spilled_volume_ml": 0.0, 
-      "type": {
-        "style_id": "0", 
-        "brewer_id": "51", 
-        "id": "75", 
-        "abv": 0.0, 
-        "name": "Oatmeal Nitro Stout"
-      }, 
-      "description": "", 
-      "start_time": "2016-02-26T21:52:27+00:00", 
-      "size_name": "half-barrel", 
-      "remaining_volume_ml": 58673.9, 
-      "size_volume_ml": 58673.9, 
-      "volume_ml_remain": 58673.9, 
-      "full_volume_ml": 58673.9, 
-      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
-      "percent_full": 100.0, 
-      "beverage": {
-        "style": "Oatmeal Nitro Stout", 
-        "beverage_type": "beer", 
-        "name": "Oatmeal Nitro Stout", 
-        "producer": {
-          "origin_city": "", 
-          "name": "Milly's Tavern", 
-          "url": "", 
-          "country": "USA", 
-          "origin_state": "", 
-          "is_homebrew": false, 
-          "id": 51, 
-          "description": ""
-        }, 
-        "id": 75, 
-        "color_hex": "#C35900"
-      }, 
-      "end_time": "2016-02-26T21:52:27+00:00", 
-      "keg_type": "half-barrel"
-    }, 
-    {
       "volume_ml_remain": 58673.9, 
       "full_volume_ml": 58673.9, 
       "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
@@ -150,9 +229,9 @@
         "id": 34, 
         "color_hex": "#C35900"
       }, 
-      "end_time": "2016-02-23T22:04:56+00:00", 
+      "end_time": "2016-03-03T21:58:17+00:00", 
       "keg_type": "half-barrel", 
-      "online": true, 
+      "online": false, 
       "remaining_volume_ml": 58673.9, 
       "spilled_volume_ml": 0.0, 
       "type": {
@@ -6653,7 +6732,7 @@
         }, 
         "style": "Cider", 
         "beverage_type": "beer", 
-        "name": "Original Press", 
+        "description": "dynexempt", 
         "producer": {
           "origin_city": "", 
           "name": "North Country Hard Cider Company", 
@@ -6667,7 +6746,8 @@
         "beverage_backend_id": "", 
         "beverage_backend": "", 
         "id": 41, 
-        "color_hex": "#C35900"
+        "color_hex": "#C35900", 
+        "name": "Original Press"
       }, 
       "end_time": "2015-02-06T20:53:51+00:00", 
       "keg_type": "half-barrel", 
