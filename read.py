@@ -6,10 +6,17 @@ pouring is defined as the pin state has changed in the past
 """
 import datetime
 import RPi.GPIO as GPIO
+import requests
 
 #how long after inactivity to consider a pour complete
 threshold = 0.100 #s
 gpio_pin = 4
+
+kegbot_api_key = '2517f7a093ac2f3ba2b05cbd16663a2f'
+kegbot_url = 'http://beer.corp.dyn.com'
+kegbot_api_path = '/api/taps/kegboard-8ae4b601.mattpi.flow0'
+
+headers = {"X-Kegbot-Api-Key": kegbot_api_key}
 
 boardRevision = GPIO.RPI_REVISION
 GPIO.setmode(GPIO.BCM) # use real GPIO numbering
@@ -47,6 +54,14 @@ while True:
             if pouring == True: #a pour just ended
                 p = loopStartTime - pourStartTime
                 print ("Pour Completed {} sec {} tick".format(p.total_seconds(), ticks))
+
+                #setup and make API call recording pour
+                payload = {"ticks": ticks}
+                url = "{}/{}".format(kegbot_url, kegbot_api_path)
+                r = requests.post(url, headers= header, data= payload)
+                if r.status_code != 200:
+                    print("pour api call returned {}".format(r.status_code))
+ 
                 
             pouring = False
 
