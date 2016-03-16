@@ -7,6 +7,7 @@ pouring is defined as the pin state has changed in the past
 import datetime
 import RPi.GPIO as GPIO
 import requests
+import syslog
 
 #how long after inactivity to consider a pour complete
 threshold = 0.100 #s
@@ -30,6 +31,8 @@ lastChangeTime = datetime.datetime.today()
 pourStartTime = datetime.datetime.today()
 ticks = 0
 
+syslog.syslog("Entering Loop")
+
 #main loop from which you never escape
 while True:
     loopStartTime = datetime.datetime.today()
@@ -41,6 +44,7 @@ while True:
         current = read
        
         if pouring == False: #a pour just started
+            syslog.syslog("pouring")
             pourStartTime = loopStartTime
             ticks = 0
 
@@ -54,13 +58,18 @@ while True:
             if pouring == True: #a pour just ended
                 p = loopStartTime - pourStartTime
                 print ("Pour Completed {} sec {} tick".format(p.total_seconds(), ticks))
+                syslog.syslog("poured {}".format(ticks))
 
                 #setup and make API call recording pour
-                payload = {"ticks": ticks}
-                url = "{}/{}".format(kegbot_url, kegbot_api_path)
-                r = requests.post(url, headers= header, data= payload)
-                if r.status_code != 200:
-                    print("pour api call returned {}".format(r.status_code))
+                if ticks> 100:
+                    payload = {"ticks": ticks}
+                    url = "{}/{}".format(kegbot_url, kegbot_api_path)
+
+                    print("Making request {}".format(url))
+                    r = requests.post(url, headers= headers, data= payload)
+                    syslog.syslog(r.text)
+                    if r.status_code != 200:
+                        print("pour api call returned {}".format(r.status_code))
  
                 
             pouring = False

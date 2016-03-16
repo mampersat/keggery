@@ -1,15 +1,15 @@
 {
   "objects": [
     {
-      "volume_ml_remain": 58673.9, 
+      "volume_ml_remain": 50818.52962962962, 
       "full_volume_ml": 58673.9, 
-      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-5.png", 
-      "served_volume_ml": 0.0, 
+      "illustration_thumbnail_url": "http://beer.corp.dyn.com:80/static/images/keg/thumb/keg-srm14-3.png", 
+      "served_volume_ml": 7855.37037037038, 
       "type_id": "11", 
       "spilled_ml": 0.0, 
       "start_time": "2016-03-03T21:58:49+00:00", 
-      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-5.png", 
-      "percent_full": 100.0, 
+      "illustration_url": "http://beer.corp.dyn.com:80/static/images/keg/full/keg-srm14-3.png", 
+      "percent_full": 86.61181484378851, 
       "size_id": 0, 
       "size_name": "half-barrel", 
       "beverage": {
@@ -42,7 +42,7 @@
       "end_time": "2016-03-03T21:58:49+00:00", 
       "keg_type": "half-barrel", 
       "online": true, 
-      "remaining_volume_ml": 58673.9, 
+      "remaining_volume_ml": 50818.52962962962, 
       "spilled_volume_ml": 0.0, 
       "type": {
         "name": "IPA", 
